@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP iGNITA
 tags: ignita defenders breakers vulnerability-management
-level: 2
+level: 3
 type: 
 pitch: Static application security testing environment with SAST scanner and plugins
 
